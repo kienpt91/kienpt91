@@ -22,6 +22,7 @@ Senior full-stack engineer based in Ho Chi Minh City. 15 years building fintech 
 | [disk-janitor](https://github.com/kienpt91/disk-janitor) | Safe disk cleanup for coding agents: scan, plan, human approval, quarantine and restore |
 | [perp-engine](https://github.com/kienpt91/perp-engine) | Educational perpetual-futures exchange core in safe Rust: matching, margin, funding, liquidation, crash-safe log with exact replay (not for real funds) |
 | [agent-undo](https://github.com/kienpt91/agent-undo) | Flight recorder and undo for what coding agents do to a project: secret-safe snapshots, conflict-aware undo (safe Rust) |
+| [agent-fleet](https://github.com/kienpt91/agent-fleet) | Run many coding agents in parallel in git worktrees and ptys: task DAG, approvals, quality gates, TUI (small Rust binary) |
 
 ## Contact
 
