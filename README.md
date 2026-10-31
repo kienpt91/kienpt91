@@ -20,6 +20,7 @@ Senior full-stack engineer based in Ho Chi Minh City. 15 years building fintech 
 | [agent-guardrails](https://github.com/kienpt91/agent-guardrails) | Runtime guardrails for tool-using agents: policy engine, restart-safe approvals, dry-run, traces, offline evals |
 | [evm-access-gate](https://github.com/kienpt91/evm-access-gate) | Educational Solidity example: subscription-style access registry with wallet login and on-chain checks (not audited) |
 | [disk-janitor](https://github.com/kienpt91/disk-janitor) | Safe disk cleanup for coding agents: scan, plan, human approval, quarantine and restore |
+| [perp-engine](https://github.com/kienpt91/perp-engine) | Educational perpetual-futures exchange core in safe Rust: matching, margin, funding, liquidation, crash-safe log with exact replay (not for real funds) |
 
 ## Contact
 
