@@ -19,6 +19,7 @@ Senior full-stack engineer based in Ho Chi Minh City. 15 years building fintech 
 | [support-copilot-core](https://github.com/kienpt91/support-copilot-core) | Backend core of a multi-tenant support assistant: tenant isolation, hybrid retrieval, PII redaction, audit log |
 | [agent-guardrails](https://github.com/kienpt91/agent-guardrails) | Runtime guardrails for tool-using agents: policy engine, restart-safe approvals, dry-run, traces, offline evals |
 | [evm-access-gate](https://github.com/kienpt91/evm-access-gate) | Educational Solidity example: subscription-style access registry with wallet login and on-chain checks (not audited) |
+| [disk-janitor](https://github.com/kienpt91/disk-janitor) | Safe disk cleanup for coding agents: scan, plan, human approval, quarantine and restore |
 
 ## Contact
 
