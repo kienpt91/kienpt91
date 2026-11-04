@@ -15,6 +15,7 @@ Senior full-stack engineer based in Ho Chi Minh City. 15 years building fintech 
 | [refcheck](https://github.com/kienpt91/refcheck) | Local, deterministic checker for hallucinated imports, exports and call shapes in JS/TS code |
 | [chief-of-staff](https://github.com/kienpt91/chief-of-staff) | Local coordinator for coding agents: task DAG, git-worktree workers, decision and quality gates |
 | [founder-toolkit-mcp](https://github.com/kienpt91/founder-toolkit-mcp) | Free MCP server and agent skills: SEO/AI-search audits, startup revenue lookups, SPF/DKIM/DMARC checks |
+| [mcp-remote-gate](https://github.com/kienpt91/mcp-remote-gate) | Gateway that puts a stdio MCP server behind hashed bearer tokens, a per-tool allowlist (read-only by default), an audit log and a kill switch |
 | [saas-rescue-audit](https://github.com/kienpt91/saas-rescue-audit) | Static auditor for Next.js + Supabase + Stripe codebases: RLS gaps, webhook mistakes, exposed secrets |
 | [proof-audit](https://github.com/kienpt91/proof-audit) | Reproducible proofs for row-level-security holes against a throwaway local database, fix proposals and before/after verification (defensive, local only) |
 | [stripe-billing-audit](https://github.com/kienpt91/stripe-billing-audit) | Read-only audit of a Stripe account's billing setup with a restricted key: webhooks, failed payments, portal, tax, with evidence and fixes |
