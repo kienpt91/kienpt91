@@ -17,6 +17,7 @@ Senior full-stack engineer based in Ho Chi Minh City. 15 years building fintech 
 | [founder-toolkit-mcp](https://github.com/kienpt91/founder-toolkit-mcp) | Free MCP server and agent skills: SEO/AI-search audits, startup revenue lookups, SPF/DKIM/DMARC checks |
 | [saas-rescue-audit](https://github.com/kienpt91/saas-rescue-audit) | Static auditor for Next.js + Supabase + Stripe codebases: RLS gaps, webhook mistakes, exposed secrets |
 | [proof-audit](https://github.com/kienpt91/proof-audit) | Reproducible proofs for row-level-security holes against a throwaway local database, fix proposals and before/after verification (defensive, local only) |
+| [stripe-billing-audit](https://github.com/kienpt91/stripe-billing-audit) | Read-only audit of a Stripe account's billing setup with a restricted key: webhooks, failed payments, portal, tax, with evidence and fixes |
 | [support-copilot-core](https://github.com/kienpt91/support-copilot-core) | Backend core of a multi-tenant support assistant: tenant isolation, hybrid retrieval, PII redaction, audit log |
 | [agent-guardrails](https://github.com/kienpt91/agent-guardrails) | Runtime guardrails for tool-using agents: policy engine, restart-safe approvals, dry-run, traces, offline evals |
 | [evm-access-gate](https://github.com/kienpt91/evm-access-gate) | Educational Solidity example: subscription-style access registry with wallet login and on-chain checks (not audited) |
