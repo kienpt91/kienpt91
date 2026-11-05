@@ -29,6 +29,6 @@ Senior full-stack engineer based in Ho Chi Minh City. 15 years building fintech 
 | [proposal-desk](https://github.com/kienpt91/proposal-desk) | Decide quickly if a job post is worth applying to and draft a proposal where every claim is backed by a verifiable fact. Local only, never submits |
 | [snapshot-netcode](https://github.com/kienpt91/snapshot-netcode) | Clean-room C# netcode for Unity multiplayer: prediction and reconciliation, snapshot interpolation, lag compensation, bounded bit-packing, seeded network simulator (Unity integration unverified) |
 
-## Contact
+## Work with me
 
-kienphan.dev@gmail.com · [LinkedIn](https://linkedin.com/in/kien-phan-trung)
+I take freelance work through Upwork only: [my Upwork profile](https://www.upwork.com/freelancers/~016929a1d16206e64f). Please do not use other channels to offer work.
