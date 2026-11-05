@@ -30,6 +30,7 @@ Senior full-stack engineer based in Ho Chi Minh City. 15 years building fintech 
 | [snapshot-netcode](https://github.com/kienpt91/snapshot-netcode) | Clean-room C# netcode for Unity multiplayer: prediction and reconciliation, snapshot interpolation, lag compensation, bounded bit-packing, seeded network simulator (Unity integration unverified) |
 | [llm-eval-harness](https://github.com/kienpt91/llm-eval-harness) | Regression tests for LLM pipelines (Python, no runtime dependencies): golden datasets, graders, cost and latency, baseline comparison, CI gate where safety failures are always fatal |
 | [booking-assistant-core](https://github.com/kienpt91/booking-assistant-core) | Reference core for an AI booking assistant (TypeScript, Postgres): overlap-proof bookings, row-level-security client isolation, policy-checked AI tools, encrypted PII, idempotent webhooks |
+| [rag-chatbot-fastapi](https://github.com/kienpt91/rag-chatbot-fastapi) | Website chatbot kit (Python, FastAPI, Postgres + pgvector): answers only from your content with citations and refusals, Supabase-style RLS, prompt-injection defences, embeddable widget, evaluation set |
 
 ## Work with me
 
