@@ -31,6 +31,7 @@ Senior full-stack engineer based in Ho Chi Minh City. 15 years building fintech 
 | [llm-eval-harness](https://github.com/kienpt91/llm-eval-harness) | Regression tests for LLM pipelines (Python, no runtime dependencies): golden datasets, graders, cost and latency, baseline comparison, CI gate where safety failures are always fatal |
 | [booking-assistant-core](https://github.com/kienpt91/booking-assistant-core) | Reference core for an AI booking assistant (TypeScript, Postgres): overlap-proof bookings, row-level-security client isolation, policy-checked AI tools, encrypted PII, idempotent webhooks |
 | [rag-chatbot-fastapi](https://github.com/kienpt91/rag-chatbot-fastapi) | Website chatbot kit (Python, FastAPI, Postgres + pgvector): answers only from your content with citations and refusals, Supabase-style RLS, prompt-injection defences, embeddable widget, evaluation set |
+| [solana-vesting-escrow](https://github.com/kienpt91/solana-vesting-escrow) | Security-focused Solana token vesting program in Rust: PDA-controlled vault, checked math, 118 named attack transactions; not audited, not deployed, tests run in-process |
 
 ## Work with me
 
