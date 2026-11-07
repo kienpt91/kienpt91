@@ -32,6 +32,8 @@ Senior full-stack engineer based in Ho Chi Minh City. 15 years building fintech 
 | [booking-assistant-core](https://github.com/kienpt91/booking-assistant-core) | Reference core for an AI booking assistant (TypeScript, Postgres): overlap-proof bookings, row-level-security client isolation, policy-checked AI tools, encrypted PII, idempotent webhooks |
 | [rag-chatbot-fastapi](https://github.com/kienpt91/rag-chatbot-fastapi) | Website chatbot kit (Python, FastAPI, Postgres + pgvector): answers only from your content with citations and refusals, Supabase-style RLS, prompt-injection defences, embeddable widget, evaluation set |
 | [solana-vesting-escrow](https://github.com/kienpt91/solana-vesting-escrow) | Security-focused Solana token vesting program in Rust: PDA-controlled vault, checked math, 118 named attack transactions; not audited, not deployed, tests run in-process |
+| [nextjs-e2e-kit](https://github.com/kienpt91/nextjs-e2e-kit) | Playwright suite for Next.js sites: accessible tabs, dialog menu and focus, 375 px layout, reduced motion, link crawler; GitLab CI and GitHub Actions with a Postgres service; 15 negative controls that prove the tests can fail |
+| [stripe-connect-marketplace-core](https://github.com/kienpt91/stripe-connect-marketplace-core) | Marketplace payments core (TypeScript, PostgreSQL): Connect onboarding states, double-entry ledger, idempotent webhooks in any order, refunds and disputes, reconciliation, row-level isolation; fake Stripe, not verified against the real API |
 
 ## Work with me
 
